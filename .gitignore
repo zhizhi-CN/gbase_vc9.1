@@ -23,6 +23,7 @@ bld/
 [Oo]bj/
 
 !build/build_config.h
+!base/debug/
 
 # Visual Studio 2015 cache/options directory
 .vs/
